@@ -1,1 +1,1 @@
-An application that simulates a server using servlets and Tomcat
+An application that simulates a server using servlets and Tomcat.
